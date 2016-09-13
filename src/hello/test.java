@@ -1,8 +1,8 @@
 package hello;
 
-public class test {
+public class test implements base{
 
-	public static void testprint(){
+	public void testprint(){
 		System.out.println("test");
 	}
 	

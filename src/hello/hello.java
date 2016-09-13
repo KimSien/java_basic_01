@@ -17,7 +17,7 @@ public class hello {
 		//test class
 		
 		test tests = new test();
-		test.testprint();
+		tests.testprint();
 	}
 
 	
