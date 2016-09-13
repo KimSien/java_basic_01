@@ -6,4 +6,8 @@ public class test implements base{
 		System.out.println("test");
 	}
 	
+	public int junit_test(){
+		return 1;
+	}
+	
 }
