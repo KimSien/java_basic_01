@@ -7,7 +7,17 @@ public class hello {
 		for(int i = 0; i < number.length; i++){
 		System.out.println(number[i]);	}
 		
-		addplus(2);
+		
+		//test function
+		int c;
+		c = addplus(2);
+		System.out.println(c);
+		
+		
+		//test class
+		
+		test tests = new test();
+		test.testprint();
 	}
 
 	
