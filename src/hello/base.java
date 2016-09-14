@@ -2,6 +2,7 @@ package hello;
 
 public interface base {
 
-	public void testprint();
-	
+	public String names=null;
+
+	public String getname();
 }
