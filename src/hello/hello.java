@@ -3,7 +3,11 @@ package hello;
 public class hello {
 
 	public static void main(String[] args) {
-		System.out.println("base");	}
+	
+		Target target = new Adapter();
+		target.targetMethod1();
+		target.targetMethod2();
+				
 	}
 	
 }
