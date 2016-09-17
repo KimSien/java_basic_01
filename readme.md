@@ -2,4 +2,10 @@
 
 ## tutorial
 
-- use array
+
+
+## design pattern
+
+	refs #2
+
+
