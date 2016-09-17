@@ -1,6 +1,6 @@
-package hello;
+package Director;
 
-public class hello {
+public class Director {
 
 	public static void main(String[] args) {
 		System.out.println("base");	
